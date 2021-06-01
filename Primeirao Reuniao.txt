@@ -1,0 +1,41 @@
+2 reunião são feitas.
+
+-são feitas sprint a cada 2 semanas e dentro essas semanas tem as daylis de 15 minutos para explicar como está indo e etc...
+
+-tem as tarefas que são definidas e dentro dessa tarefas tem a storys que sao passados o problemas pra resolver e uma story só esta completa quando esta resolvido
+ tudo dentro da storys.
+
+-sempre tem que explicar de como foi as tarefas/story.
+
+-primeira é a entega e retro que é a mais importante, segunda reunião é a pleno.
+RETRO: e feita 3 cards que são "Deu certo, Pode melhorar e Deu errado".
+
+-durantes as reunião faz os planejamentos.
+
+-Sempre escrever os problemas, duvidas e sucesso.
+
+-Sempre documentar o que foi feito.
+
+-Entender a VINDI
+
+-Mapeamento do Processos
+
+-Estamos no Sprint 20.
+
+Ponto de OBS: Estudar SCRUM, reestudar PMBOK, sempre dar a opinião.
+
+
+SharePoint.
+
+
+Segunda reunião 14:56
+
+PLENO:
+
+comodato é aluguel 
+
+usar figma.
+
+1 fazer carrinho de compra, protipar carrinho de compra do kit
+
+2 fazer prototipo das telas produto e cadastro de kit
